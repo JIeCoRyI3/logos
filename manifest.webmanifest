@@ -1,0 +1,33 @@
+{
+ "name": "Λόγος в картинках",
+ "short_name": "Εἰκόνες",
+ "description": "Тренажёр слов по картинкам к учебнику «Λόγος», главы Α′–Δ′",
+ "lang": "ru",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#efece6",
+ "theme_color": "#efece6",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
