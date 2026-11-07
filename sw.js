@@ -1,5 +1,5 @@
 /* Offline cache for Εἰκόνες: the app opens from the cache at once and quietly fetches a newer version for next time. */
-const CACHE = 'eikones-75300ad10f';
+const CACHE = 'eikones-224de06fe0';
 const ASSETS = ["./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png", "./favicon-32.png"];
 
 self.addEventListener('install', e => {
